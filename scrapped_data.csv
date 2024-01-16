@@ -1,0 +1,40 @@
+{
+  "DataUpper": {
+    "Extrusion(E)/Intrusion(I)": {
+      "21": "0.01 E",
+      "22": "0.02 I",
+      "23": "0.01 I"
+    },
+    "Translation Buccal(B)/Lingual(L)": {
+      "11": "0.11 L",
+      "12": "0.03 B",
+      "13": "0.17 B",
+      "15": "0.33 L",
+      "21": "0.08 L",
+      "22": "0.13 L",
+      "23": "0.24 L",
+      "25": "0.37 L"
+    },
+    "Translation Mesial(M)/Distal(D)": {
+      "11": "0.15 D",
+      "12": "0.13 D",
+      "13": "0.08 D",
+      "15": "0.02 M",
+      "21": "0.14 M",
+      "22": "0.16 M",
+      "23": "0.07 M",
+      "25": "0.01 M"
+    },
+    "Rotation Mesial(M)/Distal(D)": {},
+    "Angulation Mesial(M)/Distal(D)": {},
+    "Torque Buccal(B)/Lingual(L)": {}
+  },
+  "DataLower": {
+    "Extrusion(E)/Intrusion(I)": {},
+    "Translation Buccal(B)/Lingual(L)": {},
+    "Translation Mesial(M)/Distal(D)": {},
+    "Rotation Mesial(M)/Distal(D)": {},
+    "Angulation Mesial(M)/Distal(D)": {},
+    "Torque Buccal(B)/Lingual(L)": {}
+  }
+}
